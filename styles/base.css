@@ -1,4 +1,9 @@
-@import "./base.css";
+:root {
+  --color-primary: #ff7b54;
+  --color-text-on-primary: #ffffff;
+
+  --font-family: "Inter", sans-serif;
+}
 
 body {
   background-color: var(--color-primary);
